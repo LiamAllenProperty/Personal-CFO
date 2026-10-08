@@ -1,0 +1,10 @@
+{
+  "name": "Personal CFO",
+  "short_name": "CFO",
+  "description": "Track spending like cash, and earn points for saving and investing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#0f3d2e",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
