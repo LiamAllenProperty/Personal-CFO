@@ -1,0 +1,10 @@
+project_id = "zdiztndggyrlwrjovsnl"
+
+[functions.truelayer-callback]
+verify_jwt = false
+
+[functions.sync]
+verify_jwt = false
+
+[functions.push-dispatch]
+verify_jwt = false
